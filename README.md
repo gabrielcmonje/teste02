@@ -1,4 +1,5 @@
-# teste02
+# teste02 
 
-* [Jogo 1: LoL]
-* [Jogo 2: Dota]
+* League of Legends
+* Overwatch
+* Osu!
